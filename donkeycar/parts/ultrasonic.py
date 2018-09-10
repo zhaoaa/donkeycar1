@@ -1,7 +1,7 @@
 """
 Ultrasonic
 """
-
+##为啥我写的东西都没啦
 import time
 import numpy as np
 import RPi.GPIO as GPIO
